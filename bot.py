@@ -31,7 +31,7 @@ PLATFORMS = {
     "x.com": {
         "replace": "fxtwitter.com",
         "emoji": "🐦",
-        "texte": "a partagé un post X"
+        "texte": "a partagé un tweet"
     },
     "twitter.com": {
         "replace": "fxtwitter.com",
