@@ -60,7 +60,9 @@ PLATFORMS = {
 # ============================
 
 regex = re.compile(
-    r"https?://(?:www|vm|vt\.)?(x\.com|twitter\.com|instagram\.com|reddit\.com|tiktok\.com)(/[^\s]*)",
+    r"https?://(?:(?:www|vm|vt)\.)?"
+    r"(x\.com|twitter\.com|instagram\.com|reddit\.com|tiktok\.com)"
+    r"(/[^\s>]*)",
     re.IGNORECASE
 )
 
