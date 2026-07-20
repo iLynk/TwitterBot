@@ -39,7 +39,7 @@ PLATFORMS = {
         "texte": "a partagé un tweet"
     },
     "instagram.com": {
-        "replace": "ddinstagram.com",
+        "replace": "oginstagram.com",
         "emoji": "📸",
         "texte": "a partagé une publication Instagram"
     },
